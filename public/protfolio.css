@@ -150,15 +150,7 @@ section .section-title {
     transition: 1s;
     transform-style: preserve-3d;
 }
-.about{
- position: fixed;
- bottom:10px;
- left: 250px;
 
-}
-.home{
-  position:fixed;
-}
 .home .container{
   position: relative;
   left: 270px;
