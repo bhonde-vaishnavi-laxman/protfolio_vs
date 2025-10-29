@@ -1,0 +1,23 @@
+{
+  "name": "protfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhonde-vaishnavi-laxman/protfolio_vs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhonde-vaishnavi-laxman/protfolio_vs/issues"
+  },
+  "homepage": "https://github.com/bhonde-vaishnavi-laxman/protfolio_vs#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
